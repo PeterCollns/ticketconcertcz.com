@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zmRjvkcF8SH0APwj62q7tCDiNIodYkGzVuS0WTQbsABR+Nse5ZaGkj1mVWpd9JcEIrAEMVn8KDnBpd0FtDg7Ag==",
+  "dgSpecHash": "fgAiwSDS9nU=",
   "success": true,
-  "projectFilePath": "D:\\ticketconcertcz\\czevents\\CzeventsBack\\CzeventsBack\\CzeventsBack.csproj",
+  "projectFilePath": "C:\\Users\\luka\\Desktop\\ticketconcertcz.com\\backend\\CzeventsBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luka\\.nuget\\packages\\cloudinarydotnet\\1.26.0\\cloudinarydotnet.1.26.0.nupkg.sha512",
     "C:\\Users\\luka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

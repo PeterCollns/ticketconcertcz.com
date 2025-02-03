@@ -5200,11 +5200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\ticketconcertcz\\czevents\\CzeventsBack\\CzeventsBack\\CzeventsBack.csproj",
+      "projectUniqueName": "C:\\Users\\luka\\Desktop\\ticketconcertcz.com\\backend\\CzeventsBack.csproj",
       "projectName": "CzeventsBack",
-      "projectPath": "d:\\ticketconcertcz\\czevents\\CzeventsBack\\CzeventsBack\\CzeventsBack.csproj",
+      "projectPath": "C:\\Users\\luka\\Desktop\\ticketconcertcz.com\\backend\\CzeventsBack.csproj",
       "packagesPath": "C:\\Users\\luka\\.nuget\\packages\\",
-      "outputPath": "d:\\ticketconcertcz\\czevents\\CzeventsBack\\CzeventsBack\\obj\\",
+      "outputPath": "C:\\Users\\luka\\Desktop\\ticketconcertcz.com\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5215,6 +5215,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5284,7 +5285,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

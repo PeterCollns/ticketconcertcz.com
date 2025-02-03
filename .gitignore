@@ -1,0 +1,19 @@
+# Ignore Visual Studio temporary files
+.vs/
+bin/
+obj/
+Migrations/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# Ignore configuration files
+appsettings*.json
+
+# Ignore Node.js & Angular build files
+node_modules/
+dist/
