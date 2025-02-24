@@ -123,7 +123,7 @@ namespace CzeventsBack.Controllers
             return existingEvent;
         }
 
-        [HttpDelete("DeleteEvent/{eventId}")]
+        [HttpPost("DeleteEvent/{eventId}")]
         public async Task<IActionResult> DeleteEvent(int eventId)
         {
             // Retrieve event from database

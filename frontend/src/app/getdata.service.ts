@@ -27,7 +27,7 @@ export class GetdataService {
     return this.http.post(`${this._baseUrl}/Events/UpdateEvent/` + id, form);
   }
   deleteEvent(eventId: number){
-    return this.http.delete(`${this._baseUrl}/Events/DeleteEvent/${eventId}`);
+    return this.http.post(`${this._baseUrl}/Events/DeleteEvent/${eventId}`,{});
   }
   login(form: any){
     return this.http.post(`${this._baseUrl}/Events/LoginAdmin`, form);
